@@ -3,8 +3,6 @@
 
 # API Health Monitoring System
 
-**DevOps Internship Assignment 2026**
-
 ---
 
 ## 1. Overview
